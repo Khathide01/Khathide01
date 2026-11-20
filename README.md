@@ -1,5 +1,5 @@
 
-# Hi, I'm Mthokozisi Sokhela 👋
+# Hi, I'm Mthokozisi Sokhela
 
 ### Aspiring Software Developer | BSc Information Technology Graduate
 
@@ -9,15 +9,15 @@ from the University of the Free State (UFS).
 I'm passionate about software development, problem-solving,
 and building practical technology solutions.
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 BSc Information Technology – Computer Science
-- 🏫 University of the Free State
-- 💻 Interested in Software Development and IT
-- 🌱 Continuously learning and improving my technical skills
-- 🎯 Seeking opportunities to grow as a Software Developer
+- BSc Information Technology – Computer Science
+- University of the Free State
+- Interested in Software Development and IT
+- Continuously learning and improving my technical skills
+- Seeking opportunities to grow as a Software Developer
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Programming:** Java, C#
 - **Web Development:** ASP.NET Core MVC, HTML, CSS, JavaScript
@@ -39,14 +39,14 @@ improve parking management across university campuses.
 
 Technologies: Software Engineering, System Design.
 
-## 📚 Currently Improving
+## Currently Improving
 
 - Software Engineering
 - Backend Development
 - Database Management
 - Mobile Application Development
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: 
 - Email: mthokozisimant@gmal.com
